@@ -1,1 +1,1 @@
-🔗Link to deploy:  https://spir-nexus.vercel.app/monitoring
+🔗**Link to deploy:**  https://spir-nexus.vercel.app/monitoring
